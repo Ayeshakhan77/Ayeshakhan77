@@ -12,7 +12,6 @@
 ## 🌐 Connect with me
 
 <p align="left">
-<a href="www.linkedin.com/in/ayesha-khan-045561317" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
 <a href="https://www.instagram.com/_aisha_8781/?hl=en" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
