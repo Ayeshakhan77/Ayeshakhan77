@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ayesha Khan</h1>
-<h3 align="center">A passionate Python developer and software engineering student</h3>
+<h1 align="left">Hi 👋, I'm Ayesha Khan</h1>
+<h3 align="left">🚀 Python Developer | 🎓 Software Engineering Student | 🛠 Tech Enthusiast</h3>
 
 - 🔭 I’m currently working on Python-based projects, including web apps and automation tools. <br>
 - 🌱 I’m currently learning Django, REST APIs, and data structures & algorithms.<br>
