@@ -12,10 +12,10 @@
 ## 🌐 Connect with me
 
 <p align="left">
-<a href="https://www.instagram.com/techylife_8781/?hl=en" target="_blank">
+<a href="https://www.instagram.com/techylife_8781/?hl=en">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="www.linkedin.com/in/ayesha-khan-045561317" target="_blank">
+<a href="https://www.linkedin.com/in/ayesha-khan-045561317/" >
  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
