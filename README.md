@@ -1,13 +1,13 @@
 <h1 align="left">Hi 👋, I'm Ayesha Khan</h1>
-<h3 align="left">🚀 Python Developer | 🎓 Software Engineering Student | 🛠 Tech Enthusiast</h3>
+<h3 align="left">🚀 Python Developer | 🛠 AI/ML Explorer |🎓 Software Engineering Student</h3>
 
 - 🔭 I’m currently working on Python-based projects, including web apps and automation tools. <br>
-- 🌱 I’m currently learning Django, REST APIs, and data structures & algorithms.<br>
+- 🌱 I’m currently learning REST APIs, and data structures & algorithms.<br>
 - 👯 I’m looking to collaborate on open-source Python projects or beginner-friendly startups.<br>
 - 🤔 I’m looking for help with improving my backend development skills and contributing to real-world projects.<br>
 - 💬 Ask me about Python, web development basics, or organizing your first project.<br>
 - 📫 How to reach me for collaborations: ayeshawork51@gmail.com<br>
-- ⚡ Fun fact: I can code for hours without getting tired!<br>
+- ⚡ A coder by mind, a designer by heart!<br>
 
 ## 🌐 Connect with me
 
@@ -31,6 +31,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/C%2B%2B%20OOP-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
 ---
@@ -51,6 +53,8 @@
 ## ✍️ Latest Projects
 
 - [Finance Management System (Flask-based)](https://github.com/Ayeshakhan77/FinanceTracker)
+- [Sales dashboard (Power BI)](https://github.com/Ayeshakhan77/Sales-Dashboard)
+- [Mental health analysis (Logistic Regression)](https://github.com/Ayeshakhan77/Mental-Health-Analysis)
 - [More projects coming soon...]
 
 ---
