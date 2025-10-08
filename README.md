@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Ayesha Khan</h1>
-<h3 align="left">🚀 Python Developer | 🛠 AI/ML Explorer |🎓 Software Engineering Student</h3>
+<h3 align="left">🚀 Python Developer | 🛠 AI/ML Euthusiast |🎓 Software Engineering Student</h3>
 
 - 🔭 I’m currently working on Python-based projects, including web apps and automation tools. <br>
 - 🌱 I’m currently learning REST APIs, and data structures & algorithms.<br>
