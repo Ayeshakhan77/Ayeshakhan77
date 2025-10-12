@@ -59,7 +59,7 @@
 - [Finance Management System (Flask-based)](https://github.com/Ayeshakhan77/FinanceTracker)
 - [Bank Analysis Dashboard](https://github.com/Ayeshakhan77/Bank-Analysis-Dashboard)
 - [Mental health analysis (Logistic Regression)](https://github.com/Ayeshakhan77/Mental-Health-Analysis)
-- [More projects coming soon...]
+- [More projects coming soon....]
 
 ---
 
