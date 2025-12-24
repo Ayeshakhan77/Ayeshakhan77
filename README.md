@@ -31,9 +31,6 @@
   <a href="https://www.linkedin.com/in/ayesha-khan-045561317/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/techylife_8781/?hl=en" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
 </p>
 
 ---
@@ -59,12 +56,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayeshakhan77&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayeshakhan77&layout=compact&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayeshakhan77&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayeshakhan77&layout=compact&theme=radical&hide_border=true&langs_count=8" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayeshakhan77&theme=radical&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Ayeshakhan77&theme=radical&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -82,7 +79,6 @@
 
 ## 🌱 Current Focus
 
-```text
 ✔ Backend Development (Flask / APIs)
 ✔ Database Design & SQL
 ✔ Clean Code & Project Architecture
