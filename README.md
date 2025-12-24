@@ -79,7 +79,7 @@
 
 ## 🌱 Current Focus
 
-✔ Backend Development (Flask / APIs)
-✔ Database Design & SQL
+✔ Backend Development (Flask / APIs) 
+✔ Database Design & SQL   
 ✔ Clean Code & Project Architecture
 ✔ Open Source Contributions
