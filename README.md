@@ -1,70 +1,66 @@
-<h1 align="left">Hi 👋, I'm Ayesha Khan</h1>
-<h3 align="left">🚀 Python Developer | 🛠 AI/ML Euthusiast |🎓 Software Engineering Student</h3>
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">🚀 Python Developer | 🎓 Software Engineering Student | 🛠 Tech Enthusiast</h3>
 
-- 🔭 I’m currently working on Python-based projects, including web apps and automation tools. <br>
-- 🌱 I’m currently learning REST APIs, and data structures & algorithms.<br>
-- 👯 I’m looking to collaborate on open-source Python projects or beginner-friendly startups.<br>
-- 🤔 I’m looking for help with improving my backend development skills and contributing to real-world projects.<br>
-- 💬 Ask me about Python, web development basics, or organizing your first project.<br>
-- 📫 How to reach me for collaborations: ayeshawork51@gmail.com<br>
-- ⚡ A coder by mind, a designer by heart!<br>
+---
 
-## 🌐 Connect with me
+## 👨‍💻 About Me
 
-<p align="left">
-<a href="https://www.instagram.com/techylife_8781/?hl=en">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/ayesha-khan-045561317/" >
- <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+- 🔭 Currently working on Python-based projects including web apps and automation tools.  
+- 🌱 Learning Django, REST APIs, and Data Structures & Algorithms.  
+- 🤝 Looking to collaborate on open-source Python projects and beginner-friendly startups.  
+- 💡 Eager to improve my backend development skills and contribute to real-world applications.  
+- 💬 Ask me about Python, web development basics, or project structuring tips.  
+- 📫 Reach me at: **your email-id**  
+- ⚡ Fun fact: I can code for hours without getting tired!
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.instagram.com" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ## 💻 Tech Stack
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/C%2B%2B%20OOP-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayeshakhan77&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayeshakhan77&layout=compact&theme=radical" height="150"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=radical" height="150"/>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayeshakhan77&theme=radical" height="150"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=radical" height="150"/>
 </p>
 
 ---
 
-## ✍️ Latest Projects
+## ✨ Latest Projects
 
-- [Finance Management System (Flask-based)](https://github.com/Ayeshakhan77/FinanceTracker)
-- [Bank Analysis Dashboard](https://github.com/Ayeshakhan77/Bank-Analysis-Dashboard)
-- [Mental health analysis (Logistic Regression)](https://github.com/Ayeshakhan77/Mental-Health-Analysis)
-- [More projects coming soon...]
+- 🔗 [Project 1 Name](#) – Brief description of what it does.
+- 🔗 [Project 2 Name](#) – Brief description of what it does.
+- 🚧 More exciting projects coming soon...
 
 ---
 
-
-
-
-
+> ✨ *Feel free to connect and collaborate with me on interesting ideas!*
 
