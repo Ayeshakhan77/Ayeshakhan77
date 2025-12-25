@@ -53,19 +53,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayeshakhan77&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayeshakhan77&layout=compact&theme=radical&hide_border=true&langs_count=8" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ayeshakhan77&theme=radical&hide_border=true" height="160"/>
-</p>
-
----
-
 ## ✨ Featured Projects
 
 🚀 **Real-world, database-driven projects**
