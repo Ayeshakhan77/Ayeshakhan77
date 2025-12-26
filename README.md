@@ -60,13 +60,16 @@
 - 💰 [AI chatbot system (Flask)](https://github.com/Ayeshakhan77/Customer_Service-AI-Chatbot)  
 - 📊 [Bank Analysis Dashboard](https://github.com/Ayeshakhan77/Bank-Analysis-Dashboard)  
 - 🧠 [Churn Prediction Model)](https://github.com/Ayeshakhan77/Churn-prediction-model)  
-- 🔜 More exciting projects coming soon…
+- 🔜 [Hotel-POS System )](https://github.com/Ayeshakhan77/Hotel_POS_system)  
 
 ---
 
 ## 🌱 Current Focus
 
 ✔ Backend Development (Flask / APIs) 
+
 ✔ Database Design & SQL   
+
 ✔ Clean Code & Project Architecture
+
 ✔ Open Source Contributions
