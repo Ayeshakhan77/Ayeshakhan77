@@ -1,24 +1,63 @@
-# 💫 About Me:
-🎓 Software Engineering Student passionate about Python, Backend Development, and AI/ML<br>🧠 I love turning ideas into working systems<br>🎨 A coder by mind, a designer by heart<br><br>🔭 Working on Flask-based web apps & automation tools<br>🌱 Learning REST APIs, DSA & backend architecture<br>👯 Open to open-source & beginner-friendly startup collaborations<br>🤔 Improving real-world backend & database design skills<br>💬 Ask me about Python, Flask, SQL, or project structuring
+<h1 align="center">Hi 👋, I'm Ayesha Khan</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F75C7E&center=true&vCenter=true&width=500&lines=Python+Developer;AI%2FML+Enthusiast;Software+Engineering+Student;Backend+in+Progress" />
+</p>
 
-## 🌐 Socials:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ayeshakhan77&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
+
+---
+
+## 🚀 About Me
+
+🎓 Software Engineering Student passionate about **Python, Backend Development, and AI/ML**  
+🧠 I love turning ideas into working systems  
+🎨 A coder by mind, a designer by heart  
+
+- 🔭 Working on **Flask-based web apps & automation tools**
+- 🌱 Learning **REST APIs, DSA & backend architecture**
+- 👯 Open to **open-source & beginner-friendly startup collaborations**
+- 🤔 Improving **real-world backend & database design skills**
+- 💬 Ask me about **Python, Flask, SQL, or project structuring**
+- 📫 Reach me: **ayeshawork51@gmail.com**
+
+---
+
+## 🌐 Let's Connect
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayesha-khan8781/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayeshawork51@gmail.com) 
+---
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ayeshakhan77&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ayeshakhan77&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayeshakhan77&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ayeshakhan77&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ayeshakhan77&limit=5&theme=neon&combine_all_yearly_contributions=true)
+## ✨ Featured Projects
+
+🚀 **Real-world, database-driven projects**
+
+- 💰 [AI chatbot system (Flask)](https://github.com/Ayeshakhan77/Customer_Service-AI-Chatbot)  
+- 📊 [Bank Analysis Dashboard](https://github.com/Ayeshakhan77/Bank-Analysis-Dashboard)  
+- 🧠 [Churn Prediction Model)](https://github.com/Ayeshakhan77/Churn-prediction-model)  
+- 🔜 [Hotel-POS System )](https://github.com/Ayeshakhan77/Hotel_POS_system)  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ayeshakhan77&icon=2&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌱 Current Focus
+
+✔ Backend Development (Flask / APIs) 
+
+✔ Database Design & SQL   
+
+✔ Clean Code & Project Architecture
+
+✔ Open Source Contributions
+
